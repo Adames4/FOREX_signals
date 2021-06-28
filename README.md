@@ -1,10 +1,15 @@
 # FOREX_signals
 Script for sending notification about 21 forex pairs. This script calculates based on 2 indicators (Relative Strength Index with period of 20 and Exponential Moving Average with period of 200).
 
-# asdfl
+# Strategy stats
+Winrate: 66%
+Estimated weekly profit: 1% (leverage 1:20 - 1:30)
+Interval: 30m
+Script have been running since: 1 Mar 2021
+Testted on data in range: 1 Jan 2016 to 28 Feb 2021
 
 # Date Modified:
-30 Jan 2021
+20 Jun 2021
 
 # Author:                 
 Adames4

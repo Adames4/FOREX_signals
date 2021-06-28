@@ -2,7 +2,7 @@
 Script for sending notification about 21 forex pairs. This script calculates based on 2 indicators (Relative Strength Index with period of 20 and Exponential Moving Average with period of 200).
 
 # Strategy stats
-Winrate: 66%
+Winrate: 66%\n
 Estimated weekly profit: 1% (leverage 1:20 - 1:30)
 Interval: 30m
 Script have been running since: 1 Mar 2021

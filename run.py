@@ -111,7 +111,7 @@ with open('app.txt') as f:
 eur = 5540
 
 # looping through all 21 forex pairs and sending notifications to recievers
-init("S9PxnHJuMr0AHPX82LGS")
+init("API-KEY")
 for key, symbol in symbols:
     df = get_data(symbol)
     df = RSI(df)
